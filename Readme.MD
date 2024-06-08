@@ -24,7 +24,7 @@ EmbeddedSummarize is a web service designed to fetch web content from a given UR
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/matepak/embeddedsummarize.git
+   git clone https://github.com/matepak/embedded-summarize.git
    cd embeddedsummarize
    ```
 
